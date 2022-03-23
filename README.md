@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Udemy's course--Data Science for Business | 6 Real-world Case Studies.
-- 🌱 I qualified for JDLA Deep Learning for ENGINEER（E資格） in March, after taking specified programs and exams.
+- 🔭 I’m currently learning "Learn SQL Basics for Data Science Specialization" on Coursera and "Data Science for Business" on Udemy.
+- 🌱 I recently qualified for JDLA Deep Learning for ENGINEER（E資格）in March, after taking specified programs and passing the exams.
 
 
 <!--
