@@ -4,7 +4,9 @@
 
 # About personal projects
 ## 1. Child Face Generation
-- named [p2p-editing](https://github.com/jiangjw88/p2p-editing), as my first repository on github.
+- Named [p2p-editing](https://github.com/jiangjw88/p2p-editing), as my first repository on github.
+- After reading "Development Deep Learning by PyTorch", I had an idea to try to generate child photos from parents photos.
+- I read a lot of articles and papers and came to a conclusion that by merging the features of the parents' photos one can get a photo of them with their features at the same time.
 
 ## 2. Traditional Chinese Medicine Image Classification
 - intro coming soon...
