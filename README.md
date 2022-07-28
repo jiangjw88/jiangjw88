@@ -1,6 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently learning "Learn SQL Basics for Data Science Specialization" on Coursera and "Data Science for Business" on Udemy.
-- 🌱 I recently qualified for JDLA Deep Learning for ENGINEER（E資格）in March, after taking specified programs and passing the exams.
+- 🌱 I recently qualified for JDLA Deep Learning for ENGINEER（E資格）in March, 2022.
 
 # About personal projects
 ## 1. Child Face Generation
